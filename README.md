@@ -41,4 +41,4 @@
 
 ###
 
- ![Snake animation](https://github.com/Jgonsan/Jgonsan/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jgonsan/jgonsan/blob/output/github-contribution-grid-snake.svg)
