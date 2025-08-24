@@ -41,5 +41,4 @@
 
 ## 🐍 Snake com meus commits
 
-![Snake animation](https://github.com/Jgonsan/Jgonsan/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Jgonsan/Jgonsan/output/github-contribution-grid-snake.svg)
