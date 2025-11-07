@@ -31,6 +31,13 @@
 
 </div>
 
+### 🚀 Minha jornada de aprendizado
+
+<div align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/6909439ab0418a041eaa763e?variant=dark" alt="roadmap.sh"/>
+  </a>
+</div>
 #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgonsan/)
