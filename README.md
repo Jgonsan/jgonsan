@@ -29,17 +29,6 @@
   
 
 </div>
-
----
-
-### 🚀 My Learning Journey
-
-<div align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/6909439ab0418a041eaa763e?variant=dark" alt="roadmap.sh"/>
-  </a>
-</div>
-
 ---
 
 ### 🌐 Connect With Me
@@ -54,6 +43,16 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jgonsan/jgonsan/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🚀 My Learning Journey
+
+<div align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/6909439ab0418a041eaa763e?variant=dark" alt="roadmap.sh"/>
+  </a>
 </div>
 
 ---
